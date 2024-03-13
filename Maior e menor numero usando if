@@ -38,11 +38,11 @@ produto=(primeiraNota * segundaNota);
  //se 
  
  if(primeiroNumero>segundaNota);
- printf("PRIMEIRO NUMERO É MAIOR !");
+ printf("PRIMEIRO NUMERO Ã‰ MAIOR !");
  (primeiroNumero>segundaNota);
- printf (" SEGUNDO NUMERO É MAIOR !");
+ printf (" SEGUNDO NUMERO Ã‰ MAIOR !");
  if( primeiroNumero== segundaNota);
- printf("Os NÚMEROS SÃO  IGUAIS");
+ printf("Os NÃšMEROS SÃƒO  IGUAIS");
 
 
 
