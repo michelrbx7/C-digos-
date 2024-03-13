@@ -23,7 +23,7 @@ int numero,i,soma=0;
 cabecalho ();
 for(i =1; i<=4; i++){
  do{
- printf("Digite a %iª Numero:",i);
+ printf("Digite a %iÂª Numero:",i);
  scanf("%i",&numero);
  } while(numero <1 || numero >10);
  soma=soma+numero;
